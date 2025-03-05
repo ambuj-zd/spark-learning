@@ -1,0 +1,16 @@
+employee_id,name,department,job_role,salary
+101,John Doe,Engineering,Software Engineer,90000
+102,Jane Smith,Engineering,Data Engineer,110000
+103,Michael Johnson,Finance,Financial Analyst,95000
+104,Emily Davis,HR,HR Manager,85000
+105,David Wilson,Engineering,ML Engineer,120000
+106,Laura Brown,Marketing,Marketing Specialist,70000
+107,James White,Sales,Sales Manager,105000
+108,Sarah Miller,Engineering,Software Engineer,95000
+109,Robert Martinez,Finance,Accountant,88000
+110,Jessica Taylor,HR,HR Executive,65000
+111,William Anderson,Engineering,Data Scientist,125000
+112,Olivia Thomas,Marketing,SEO Specialist,75000
+113,Ethan Harris,Sales,Sales Executive,78000
+114,Mia Clark,Engineering,Backend Engineer,98000
+115,Daniel Lewis,Finance,Investment Analyst,115000
