@@ -1,0 +1,348 @@
+Employee Code	Name	Competency	Category	Proficiency	Added on
+006397	Paresh Vaishnav	.Net-C#/ASP.NET	.Net	Beginner	01/29/2019
+003770	Sagar Laddha	Test Automation-Test Track	Test Automation	Beginner	01/29/2019
+003770	Sagar Laddha	Test Management-Rational ClearQuest	Test Management	Beginner	01/29/2019
+003770	Sagar Laddha	Project Management	Management Skills		11/01/2022
+025208	Mritunjay Kumar	Database-MySQL	Database	Proficient	09/08/2020
+025168	Soniya Vasta	UI-HTML5 & CSS3	UI	Beginner	01/29/2019
+025168	Soniya Vasta	UI-React.js	UI	Beginner	05/12/2020
+025168	Soniya Vasta	UI-React Native	UI	Beginner	02/17/2021
+025168	Soniya Vasta	UI-Typescript	UI	Beginner	11/16/2022
+000740	Sandip Dey	Cloud -AWS Development	Cloud	Expert	07/06/2022
+004400	Pournima Mahajan	Office Tool-MS-Powerpoint	Office Tool	Proficient	10/26/2020
+009625	Shrihari Kulkarni	Self Management	Soft Skills	Beginner	04/01/2022
+014492	Dinesh Rivankar	MeanStack-NodeJS	MeanStack	Beginner	01/29/2019
+022427	Amol Jadhav	Java- Spring Microservices	Java	Proficient	01/25/2022
+022427	Amol Jadhav	Java-Servlets & JSPs	Java	Proficient	01/25/2022
+005608	Rangnath Shimpi	Office Tool-MS-Excel	Office Tool	Expert	11/03/2022
+005608	Rangnath Shimpi	Oracle Fusion Financials	Oracle Fusion	Proficient	11/03/2022
+005638	Lalita Dabhikar	UI-JQuery	UI	Beginner	01/29/2019
+005638	Lalita Dabhikar	Java-Core Java	Java	Expert	03/09/2022
+014456	Vaishnavi Barve	UI-HTML5 & CSS3	UI	Beginner	01/29/2019
+023323	Bhagyashri Gaikwad	Configuration Management-Ansible	Configuration Management	Beginner	12/17/2021
+023323	Bhagyashri Gaikwad	Configuration Management-Terraform	DevOps	Beginner	06/13/2022
+014757	Prashant Gupta	Java-J2EE  Design Patterns	Java	Beginner	01/29/2019
+014757	Prashant Gupta	Cloud -AWS Development	Cloud	Beginner	05/05/2020
+006563	Manjushree Bhandiya	Manual Testing-TlxTend Test Case Management Tool	Manual Testing	Practitioner	01/29/2019
+004252	Gajanan Indulkar	Tenacity and Initiative	Soft Skills	Proficient	12/24/2021
+024691	Pravin Deshmukh	Java-Spring 3	Java	Beginner	04/09/2019
+016312	Pallavi Yadav	Performance Engineering-Performance Testing	Performance Engineering	Practitioner	08/16/2022
+020120	Darshana Ranaweera	Webserver-Apache Tomcat	Webserver	Beginner	01/29/2019
+020120	Darshana Ranaweera	Database-MySQL	Database	Beginner	01/29/2019
+020120	Darshana Ranaweera	CS Fundamentals-Data Structures	CS Fundamentals	Expert	03/28/2022
+023324	Anjali Shevadkar	BI-Talend	BI	Practitioner	11/03/2022
+018179	Jagadeeshwar Pawar	Salesforce Integration	Salesforce	Proficient	11/01/2022
+021224	Tejashree Shirole	Effective Communication	Soft Skills	Practitioner	06/28/2022
+009856	Shubhangi Malvankar	UI-Angular.js (1.x)	UI	Proficient	02/18/2021
+009856	Shubhangi Malvankar	.Net-C#/ASP.NET	.Net	Proficient	11/08/2022
+017080	Ekta Surender	UX Design-Interaction Design	UX	Practitioner	07/13/2022
+020130	Jeewantha Kodikara	Manual Testing-QE Manual Testing	Manual Testing	Proficient	06/16/2020
+010583	Saket Rajurkar	Office Tool-MS-Excel	Office Tool	Practitioner	11/12/2021
+025230	Jasmeet Singh	Collaboration	Soft Skills	Practitioner	01/02/2023
+009830	Sakshi Jamgaonkar	IoT-RaspberryPi	IoT	Expert	01/03/2022
+014826	Poonam Naik	Collaboration	Soft Skills	Beginner	07/01/2022
+006766	Sunilkumar Bansal	Project Tools-Bugzilla	Project Tools	Beginner	01/29/2019
+018205	Rohit Kshirsagar	UI-Angular 5	UI	Proficient	01/13/2022
+018205	Rohit Kshirsagar	UI-JavaScript	UI	Expert	10/27/2022
+018205	Rohit Kshirsagar	UI-HTML5 & CSS3	UI	Expert	10/27/2022
+018117	Harshal Patil	Mobility-Android	Mobility	Beginner	01/29/2019
+013701	Kedar Pai Raikar	.Net-C#/ASP.NET	.Net	Proficient	11/03/2022
+025197	Arijeet Bhakat	UI-HTML5 & CSS3	UI	Beginner	04/16/2020
+021911	Dushanthi Wijesinghe	Effective Communication	Soft Skills	Proficient	12/20/2022
+002390	Arti Sabnani	Coaching and Development	Management Skills	Practitioner	04/21/2021
+013937	Usha Padilam	HP Unix		Practitioner	11/02/2022
+013937	Usha Padilam	Manual Testing-QE Manual Testing	Manual Testing	Proficient	11/03/2022
+008939	Dattatraya Ingale	Windows Admin-Remote infrastructure management	Windows Admin	Proficient	09/15/2022
+004405	Sunil Pandey	DevOps	DevOps	Proficient	11/04/2022
+010795	Vidhyasagar Madireddy	Continuous Integration & Build Systems-Jenkins	
+Continuous Integration & Build Systems
+Beginner	11/03/2022
+015630	Bhimashankar Gavkare	C++-Open OS (Unix, Linux, Mac)	C++	Beginner	01/29/2019
+005751	Sangeeta Bajaj	Manual Testing-QE Manual Testing	Manual Testing	Beginner	01/29/2019
+020257	Mahesh Juwale	Self Management	Soft Skills	Beginner	04/01/2022
+025161	Stacey Ferreira	Version Control-Git	Version Control	Beginner	01/29/2019
+016134	Tukaram Shirke	BigData-Hadoop	BigData	Beginner	01/29/2019
+016134	Tukaram Shirke	.Net-C#/ASP.NET	.Net	Proficient	04/02/2020
+006810	Sunita Paranjape	BI-Power Apps	BI	Beginner	11/01/2022
+025151	Salvador Fernandes	Scripting & Programming Language-PHP	
+Scripting & Programming Language
+Beginner	01/29/2019
+010277	Akhilesh Shiraskar	Oracle Fusion Integrations	Oracle Fusion	Proficient	11/02/2022
+014636	Anup Gosavi	.Net - .Net Framework	.Net	Proficient	11/03/2022
+014592	Charuta Puranik	Design-Photoshop	Design	Beginner	01/29/2019
+016507	Kshitija Manchare	Manual Testing-QE Manual Testing	Manual Testing	Proficient	05/19/2020
+004057	Maulin Shah	Microsoft-Dynamics AX	Microsoft	Beginner	01/29/2019
+019634	Michelle Edward	Effective Communication	Soft Skills	Beginner	12/27/2021
+019774	Amit Karhade	Building Teams	Management Skills	Beginner	01/26/2022
+023104	Priyanka Singh	Effective Communication	Soft Skills	Proficient	12/17/2021
+010043	Vinda Parab	Building Teams	Management Skills	Beginner	04/01/2022
+010043	Vinda Parab	Test Automation-API Testing	Test Automation	Proficient	12/06/2022
+016834	Vinayak Jagtap	Operating System-Linux-RHEL	Operating System	Beginner	01/29/2019
+014207	Swapna Rawade	Project Tools-Bugzilla	Project Tools	Beginner	01/29/2019
+014207	Swapna Rawade	Oracle Fusion Projects	Oracle Fusion	Proficient	09/12/2022
+014207	Swapna Rawade	Oracle Fusion Financials	Oracle Fusion	Practitioner	09/12/2022
+011964	Anne Lise Boute	.Net-C#/ASP.NET	.Net	Proficient	02/21/2022
+008129	Shruti Vasudeo	Webserver-Apache Tomcat	Webserver	Beginner	01/29/2019
+014450	Sheetal Thombare	Cloud -Outsystems	Cloud	Beginner	04/15/2020
+002068	Manoj Choudhari	Project Tools-Confluence	Project Tools	Practitioner	04/29/2020
+005748	Arvind Gaddam	Office Tool-MS-Excel	Office Tool	Proficient	01/29/2019
+005748	Arvind Gaddam	IT Infrastructure Managemnt		Practitioner	11/11/2022
+002491	Ketaki Yadwadkar	Java-Servlets & JSPs	Java	Beginner	01/29/2019
+013306	Suchita Gangurde	Professional Service-Vmware	Professional Service	Beginner	01/29/2019
+013306	Suchita Gangurde	CS Fundamentals-Object Oriented Programming	CS Fundamentals	Beginner	01/29/2019
+013306	Suchita Gangurde	Eclipse IDE for Java Programming	Java	Expert	01/04/2022
+020066	Sasika Chandrasekara	Java-Spring 3	Java	Beginner	01/29/2019
+020066	Sasika Chandrasekara	Java-Core Java	Java	Proficient	03/30/2022
+017147	Yogesh Jeware	.Net-LINQ	.Net	Practitioner	11/01/2022
+014754	Jui Thakre	Scripting & Programming Language-Python	
+Scripting & Programming Language
+Beginner	01/29/2019
+000969	Roshi Thampi	Office Tool-MS Outlook	Office Tool	Beginner	01/29/2019
+000969	Roshi Thampi	SME - Engineering - Project Management	SME	Practitioner	10/27/2021
+000969	Roshi Thampi	Database-Postgres	Database	Practitioner	05/17/2022
+021868	Kiran Shirudkar	Customer Focus	Soft Skills	Proficient	01/11/2023
+001412	Aparna Patil	C++-COM/DCOM	C++	Beginner	01/29/2019
+018769	Deepika Kotkar	Mobility-Swift	Mobility	Practitioner	03/18/2022
+021397	Ardhendu Shekhar	Project Management	Management Skills	Expert	03/21/2022
+021397	Ardhendu Shekhar	Delivery Excellence		Expert	10/27/2022
+021964	Varsha Pawar	Appian-BPM Platform	Appian	Proficient	05/12/2020
+021964	Varsha Pawar	Appian-BPM Platform	Appian	Proficient	01/10/2022
+023661	Kate Rodrigues	Domain-Image Processing	Domain	Beginner	01/29/2019
+023661	Kate Rodrigues	Innovation	Soft Skills	Practitioner	08/30/2022
+020135	Charith Giragama	Manual Testing-QE Manual Testing	Manual Testing	Expert	06/22/2022
+024365	Janvi S	Test Automation-Selenium	Test Automation	Beginner	01/29/2019
+008940	Neha Kulkarni	Project Tools-JIRA	Project Tools	Proficient	10/05/2020
+008940	Neha Kulkarni	Quality System Standards and Models		Practitioner	08/04/2022
+025046	Pooja Kamat	Java-Hibernate	Java	Practitioner	02/08/2021
+009979	Prachi Pujari	CS Fundamentals-DB Fundamentals	CS Fundamentals	Beginner	01/29/2019
+009979	Prachi Pujari	BI-Informatica	BI	Beginner	01/29/2019
+008283	Dipali Deotare	Scripting & Programming Language-PostgreSQL	
+Scripting & Programming Language
+Beginner	05/09/2019
+005314	Lenzie Camilo	Containerization-Docker	Containerization	Practitioner	07/06/2020
+005314	Lenzie Camilo	Building Teams	Management Skills	Beginner	06/25/2021
+024714	Shridhar Acharya	Self Management	Soft Skills	Practitioner	05/10/2021
+023249	Amol Pawar	Java-Spring BOOT	Java	Practitioner	11/03/2022
+006581	Madhavi Patil	Professional Service-KVM	Professional Service	Beginner	01/29/2019
+006581	Madhavi Patil	Manual Testing-QE Manual Testing	Manual Testing	Practitioner	01/29/2019
+006581	Madhavi Patil	Office Tool-MS-Powerpoint	Office Tool	Beginner	01/29/2019
+009899	Shilpa Jain	Salesforce Lightning Web Component	Salesforce	Beginner	04/04/2022
+008105	Kapil Vasani	Database-Oracle	Database	Expert	04/29/2020
+010346	Ashwini Diwan	.Net-ASP.NET MVC	.Net	Beginner	01/29/2019
+010346	Ashwini Diwan	Version Control-TFS	Version Control	Expert	11/01/2022
+013436	Sneha Shirgaonkar	Database-MySQL	Database	Beginner	01/29/2019
+013436	Sneha Shirgaonkar	Testing Tool - JUnit	Unit Testing	Practitioner	01/12/2022
+024913	Vickneswaran Seliyan	Networking	Network Admin	Proficient	08/30/2022
+025086	Anish Verman	Continuous Integration & Build Systems-Ant	
+Continuous Integration & Build Systems
+Beginner	01/29/2019
+022351	Preeti Inamdar	Effective Communication	Soft Skills	Beginner	10/20/2022
+009277	Ivy D'Souza	ServerSide Testing-Shell Scripting	ServerSide Testing	Beginner	01/29/2019
+009277	Ivy D'Souza	Version Control-Tortoise SVN	Version Control	Beginner	01/29/2019
+009277	Ivy D'Souza	Manual Testing-QE Manual Testing	Manual Testing	Proficient	01/29/2019
+009277	Ivy D'Souza	Test Automation-IBM Rational Quality Manager (RQM)	Test Automation	Beginner	01/29/2019
+003224	Sukhiya Naik Prataprao Sardesai	Manual Testing-QE Manual Testing	Manual Testing	Proficient	01/29/2019
+003224	Sukhiya Naik Prataprao Sardesai	Security-Oracle Identity Manager (Oracle IdM)	Security	Proficient	04/16/2020
+003224	Sukhiya Naik Prataprao Sardesai	Project Tools-JIRA	Project Tools	Proficient	09/06/2022
+017143	Bhavna Gyanchandani	Version Control-Git	Version Control	Proficient	11/14/2022
+012388	Aashis Tiwari	AI-Python for Machine Learning	Machine Learning	Expert	12/06/2022
+007840	Dipti Kalgutkar	Database-MS SQL Server	Database	Proficient	08/17/2020
+018333	Supriya Dalvi	Oracle Fusion HCM	Oracle Fusion	Practitioner	11/03/2022
+010619	Subrahmanyam MadhavaBotla	Cloud - AWS	AWS	Beginner	09/06/2022
+002991	Yogita Shroff	Database-MySQL	Database	Beginner	01/29/2019
+002991	Yogita Shroff	Scripting & Programming Language-Perl	
+Scripting & Programming Language
+Proficient	04/15/2020
+020190	Martin Bradley	Cloud - AWS	AWS	Proficient	01/04/2022
+015006	Bhushan Borkar	ServerSide Testing-Shell Scripting	ServerSide Testing	Proficient	04/21/2020
+015006	Bhushan Borkar	UI-Node.js	UI	Proficient	09/21/2022
+018115	Swapna Nakade	Java-Core Java	Java	Proficient	05/29/2020
+021785	Elohim Arranaga	Leadership Skills	Management Skills	Expert	05/09/2022
+016398	Ankita Lanjewar	Test Automation-BDD-Cucumber-Java	Test Automation	Proficient	09/20/2022
+016381	Nilesh Nikam	Webserver-Apache Tomcat	Webserver	Beginner	01/29/2019
+010416	Jyothi P	Database-Oracle	Database	Practitioner	02/18/2021
+021595	Sri Vytheswaran	Office Tool-MS-Powerpoint	Office Tool	Proficient	10/04/2021
+021595	Sri Vytheswaran	SME - Engineering - Project Management	SME	Proficient	10/05/2021
+009614	Shreya Mishra	Java-Core Java	Java	Practitioner	05/29/2020
+009614	Shreya Mishra	Webserver-Apache Tomcat	Webserver	Practitioner	05/29/2020
+024944	Rishikesh Shukla	SIEM		Proficient	01/04/2022
+000779	Girish Katdare	Network Admin-Storage Area Network	Network Admin	Beginner	10/25/2021
+021841	Nikhil Kadam	Project Tools-BMC Remedy	Project Tools	Expert	08/12/2020
+009748	Arun Bothe	Project Tools-JIRA	Project Tools	Beginner	01/29/2019
+001114	Jaydeep Ayachit	Collaboration	Soft Skills	Beginner	07/17/2021
+022111	Daniel Grack	Effective Communication	Soft Skills	Proficient	04/01/2022
+018270	Preeti Patil	BI-Snowflake-DWH	BI	Expert	09/22/2020
+011324	Swati Shelke	Manual Testing-QE Manual Testing	Manual Testing	Beginner	01/29/2019
+011324	Swati Shelke	Test Automation-IBM Rational Quality Manager (RQM)	Test Automation	Beginner	01/29/2019
+011324	Swati Shelke	Operating System-Linux-RHEL	Operating System	Proficient	04/06/2020
+025308	Pankaj Jadhav	IT Infrastructure Managemnt		Proficient	09/26/2022
+004071	Akash Fulzele	Manual Testing-QE Manual Testing	Manual Testing	Proficient	01/29/2019
+021262	Vishal Tirpude	Effective Communication	Soft Skills	Proficient	01/20/2022
+020583	Vivek Bajpai	Continuous Integration & Build Systems-Jenkins	
+Continuous Integration & Build Systems
+Expert	04/16/2020
+020583	Vivek Bajpai	Database - IBM DB2	Database	Expert	04/29/2020
+020583	Vivek Bajpai	Customer Focus	Soft Skills		02/04/2021
+020583	Vivek Bajpai	Decision Making	Soft Skills	Practitioner	12/03/2021
+024932	Anil Mengade	Operating System-Linux/Unix Administration	Operating System	Expert	08/17/2020
+024932	Anil Mengade	Support-Hardware Configuration	Support	Proficient	08/17/2020
+014783	Sandeep Gaur	Operating System-Linux-RHEL	Operating System	Beginner	01/29/2019
+005336	Siddhesh Deodhar	Java-Servlets & JSPs	Java	Beginner	01/29/2019
+005336	Siddhesh Deodhar	Continuous Integration & Build Systems-Maven	
+Continuous Integration & Build Systems
+Practitioner	05/18/2020
+023552	Geetanjali Raut	Manual Testing-QE Manual Testing	Manual Testing	Proficient	02/21/2020
+014220	Anuja Erande	Operating System-Linux-RHEL	Operating System	Beginner	01/29/2019
+014220	Anuja Erande	Manual Testing-QE Manual Testing	Manual Testing	Expert	06/26/2020
+023887	Mridula Kolhatkar	Test Automation Selenium - Java	Test Automation	Proficient	04/29/2020
+020084	Mihirani Gunawardana	ServerSide Testing-Shell Scripting	ServerSide Testing	Practitioner	03/28/2022
+007860	Navinchandra Salunke	Cloud -OpenStack	Cloud	Beginner	01/29/2019
+007860	Navinchandra Salunke	IBM-Rational Rose	IBM	Beginner	01/29/2019
+023531	Rudra Suraboyina	Cloud -OpenStack	Cloud	Practitioner	04/22/2020
+023531	Rudra Suraboyina	Operating System-Linux-RHEL	Operating System	Practitioner	04/05/2021
+003082	Aparna Malwade	ServerSide Testing-ServerSide Testing	ServerSide Testing	Proficient	02/09/2021
+013794	Shirley Shing Yuen Ma	Project Management	Management Skills	Proficient	09/15/2022
+023986	Dhanashri Bhate	Scripting & Programming Language-Groovy on Grails	
+Scripting & Programming Language
+Beginner	01/29/2019
+023986	Dhanashri Bhate	CS Fundamentals-Object Oriented Programming	CS Fundamentals	Expert	07/16/2020
+020042	Rajantha Fernando	UI-JavaScript	UI	Practitioner	10/13/2022
+009817	Prasanna Peshkar	Test Automation-Sikuli Script	Test Automation	Beginner	01/29/2019
+023943	Sumit Shukla	Java-Core Java	Java	Proficient	04/23/2020
+001032	Rahul Jadhav	Java-Core Java	Java	Proficient	02/13/2019
+001032	Rahul Jadhav	Operating System-Linux-RHEL	Operating System	Practitioner	02/13/2019
+001032	Rahul Jadhav	Coaching and Development	Management Skills	Practitioner	04/18/2021
+021916	Vinod Pardhi	Support-Customer Support	Support	Expert	06/16/2020
+021916	Vinod Pardhi	Management Skills	Management Skills	Proficient	08/16/2022
+009359	Rohit Sasikumar	C++-Windows (SDK & MFC)	C++	Beginner	01/29/2019
+012757	Suyash Yadav	Containerization-Solaris Containers	Containerization	Beginner	01/29/2019
+012757	Suyash Yadav	Containerization-Kubernetes	DevOps	Practitioner	03/30/2022
+024488	Yvens Pinto	UI-React.js	UI	Proficient	10/22/2021
+024488	Yvens Pinto	Containerization-Docker	Containerization	Beginner	10/22/2021
+024488	Yvens Pinto	UI-Angular	UI	Proficient	12/17/2021
+023017	Ruta Dharwadkar	SOAP Web Service	Development Basics	Beginner	01/01/2022
+013748	Shiju Paul	Self Management	Soft Skills	Proficient	10/21/2022
+013705	Vidula Deshpande	Java Architecture for XML Binding (JAXB)	Java	Proficient	02/07/2022
+013705	Vidula Deshpande	Eclipse IDE for J2EE Application	Java	Proficient	02/07/2022
+021527	Jyoti Notani	Java-Spring 3	Java	Beginner	01/29/2019
+002288	Hemant Muthiyan	C++-COM/DCOM	C++	Beginner	01/29/2019
+002288	Hemant Muthiyan	Java-Core Java	Java	Beginner	01/29/2019
+002288	Hemant Muthiyan	Version Control-CVS	Version Control	Beginner	01/29/2019
+024929	Akshay Majithia	Containerization-Docker	Containerization	Beginner	05/04/2020
+024929	Akshay Majithia	Effective Communication	Soft Skills	Proficient	07/21/2021
+020048	Ruchira Kariyawasam	Eclipse IDE for Java Programming	Java	Proficient	10/05/2021
+014520	Yogita Thorat	Test Automation-Winrunner	Test Automation	Practitioner	05/06/2020
+014520	Yogita Thorat	Test Automation-IBM Rational Quality Manager (RQM)	Test Automation	Proficient	12/20/2021
+003230	Shivani Ajgaonkar	Operating System-Linux-RHEL	Operating System	Beginner	01/29/2019
+003230	Shivani Ajgaonkar	UI-JQuery	UI	Proficient	04/20/2020
+003230	Shivani Ajgaonkar	MeanStack-NodeJS	MeanStack	Expert	04/20/2020
+003230	Shivani Ajgaonkar	Project Tools-JIRA	Project Tools	Expert	07/04/2022
+003230	Shivani Ajgaonkar	Collaboration	Soft Skills	Practitioner	11/17/2022
+002010	Nitin Huse	Building Teams	Management Skills	Beginner	10/02/2021
+005778	Brajmohan Singh	Project Tools-Bugzilla	Project Tools	Proficient	01/29/2019
+005673	Dinesh Kherajani	Product Management	Management Skills	Proficient	12/29/2021
+003280	Valencia Fernandes	Performance Engineering-JMeter	Performance Engineering	Practitioner	04/13/2020
+010098	Sujay Cuncoliencar	Manual Testing-QE Manual Testing	Manual Testing	Proficient	01/29/2019
+010098	Sujay Cuncoliencar	Cloud -Bluemix	Cloud	Beginner	01/29/2019
+010098	Sujay Cuncoliencar	Database-MySQL	Database	Practitioner	02/21/2020
+007512	Duane D'Souza	Configuration Management-Chef and Puppet	Configuration Management	Beginner	01/29/2019
+007512	Duane D'Souza	Cloud -GCP	Cloud	Practitioner	06/15/2020
+007512	Duane D'Souza	Containerization-Kubernetes	DevOps	Practitioner	06/15/2020
+007512	Duane D'Souza	Continuous Integration & Build Systems-Jenkins	
+Continuous Integration & Build Systems
+Practitioner	06/16/2020
+002834	Afsar Khan	Project Tools-JIRA	Project Tools	Proficient	01/18/2022
+002834	Afsar Khan	Communication Skills	Soft Skills	Expert	01/18/2022
+010188	Saeel Parsekar	Database-MySQL	Database	Practitioner	01/29/2019
+010188	Saeel Parsekar	Java-Core Java	Java	Beginner	01/29/2019
+010188	Saeel Parsekar	UI-Bootstrap	UI	Beginner	01/29/2019
+021784	Jose Munoz	Operating System-Linux/Unix Administration	Operating System	Beginner	01/29/2019
+021784	Jose Munoz	Configuration Management-Ansible	Configuration Management	Proficient	03/11/2022
+001687	Sandeep Kshirsagar	Manual Testing-QE Manual Testing	Manual Testing	Proficient	01/29/2019
+001687	Sandeep Kshirsagar	Containerization-Docker	Containerization	Beginner	04/30/2020
+023467	Aaditya Parkhi	Operating System-Windows	Operating System	Practitioner	08/13/2020
+021796	Mario Arreola	Effective Communication	Soft Skills	Proficient	04/01/2022
+014615	Yee Toh	BI-Cognos	BI	Beginner	01/29/2019
+005179	Rucha Agrawal	Manual Testing-QE Manual Testing	Manual Testing	Beginner	01/29/2019
+005300	Anuja Kamat	Containerization-Docker	Containerization	Beginner	01/29/2019
+005300	Anuja Kamat	Office Tool-MS-Powerpoint	Office Tool	Beginner	01/29/2019
+005300	Anuja Kamat	Mobility-Xcode	Mobility	Beginner	01/29/2019
+010252	Mahesh Sawaiker	BI-Scala	BI	Beginner	01/29/2019
+010252	Mahesh Sawaiker	Java-Core Java	Java	Proficient	04/30/2020
+010445	Ashish Dalvi	Effective Communication	Soft Skills	Proficient	06/06/2022
+013203	Amaranadh Vayyala	ServerSide Testing-Shell Scripting	ServerSide Testing	Practitioner	01/29/2019
+013203	Amaranadh Vayyala	Java-Core Java	Java	Practitioner	01/29/2019
+013203	Amaranadh Vayyala	Java-J2EE  Design Patterns	Java	Practitioner	01/29/2019
+013203	Amaranadh Vayyala	Salesforce Admin	Salesforce	Practitioner	03/25/2022
+007571	Amruta Rao	BI-PowerShell	BI	Beginner	01/29/2019
+007571	Amruta Rao	Java-Core Java	Java	Proficient	05/05/2020
+021038	Rupali Gobe	Continuous Integration & Build Systems-Jenkins	
+Continuous Integration & Build Systems
+Proficient	05/13/2020
+010348	Kiran Khaire	Project Tools-Bugzilla	Project Tools	Beginner	01/29/2019
+010348	Kiran Khaire	Test Automation-Rational Robot	Test Automation	Beginner	01/29/2019
+010348	Kiran Khaire	Project Tools-HP Quality Center	Project Tools	Practitioner	05/29/2020
+010348	Kiran Khaire	Manual Testing-QE Manual Testing	Manual Testing	Expert	05/29/2020
+011359	Chandrakant Bagade	Effective Communication	Soft Skills	Proficient	02/14/2022
+011359	Chandrakant Bagade	Cloud -Microsoft Azure	Cloud	Proficient	09/14/2022
+011359	Chandrakant Bagade	Containerization-Kubernetes	DevOps	Proficient	09/14/2022
+023585	Pushpa Upadhyay	AI-Deep Learning	Machine Learning	Practitioner	04/13/2022
+022788	Rahul Thamke	Cloud -Microsoft Azure	Cloud	Beginner	03/09/2022
+021257	Zakir Jarman	Design-Dreamweaver	Design	Beginner	01/29/2019
+009764	Deepa Pargaonkar	DITA		Proficient	11/14/2022
+010407	Shubham Gudhane	Building Teams	Management Skills	Beginner	07/11/2022
+005316	Manjula Athani	IBM Websphere Application Server	Application / Web Server	Beginner	01/29/2019
+005316	Manjula Athani	Java-Core Java	Java	Proficient	06/12/2020
+013276	Pallavi Sawant	IBM CE RTC		Practitioner	09/08/2022
+012660	Saurabh Ude	Database-Netezza	Database	Practitioner	10/06/2022
+017466	Kabir Kashyap	Continuous Integration & Build Systems-Ant	
+Continuous Integration & Build Systems
+Proficient	05/14/2020
+009499	Sunny Deshmukh	Manual Testing-QE Manual Testing	Manual Testing	Proficient	01/29/2019
+024382	Vibhuti Sawant	Continuous Integration & Build Systems-Jenkins	
+Continuous Integration & Build Systems
+Practitioner	05/15/2020
+024382	Vibhuti Sawant	Scripting & Programming Language-Python for Databases	
+Scripting & Programming Language
+Practitioner	12/08/2022
+013652	Chandranana Gawas	C-Windows	C	Proficient	06/12/2020
+019007	Ashok Kumar	Database-Sybase	Database	Beginner	01/29/2019
+019007	Ashok Kumar	Java-Servlets & JSPs	Java	Proficient	10/15/2020
+014529	Pranab Bhatta	Configuration Management-Ansible	Configuration Management	Practitioner	02/09/2022
+023666	Vaishnavi Kamat Dhakankar	Domain-Image Processing	Domain	Beginner	01/29/2019
+023666	Vaishnavi Kamat Dhakankar	Collaboration	Soft Skills	Practitioner	11/15/2022
+023754	Shital Tidke	Database-MS SQL Server	Database	Practitioner	09/06/2022
+021920	Sameer Pathan	Windows Admin-Remote infrastructure management	Windows Admin	Proficient	04/22/2020
+022394	Gaurav Sharma	CS Fundamentals-Object Oriented Programming	CS Fundamentals	Beginner	01/29/2019
+022394	Gaurav Sharma	Scripting & Programming Language-Python	
+Scripting & Programming Language
+Beginner	04/17/2020
+020007	Sampada Dey	Mobility-Objective C	Mobility	Expert	08/25/2020
+023274	Srushti Tawade	CS Fundamentals-Object Oriented Programming	CS Fundamentals	Beginner	01/29/2019
+018955	Sourabh Kothari	Java API for XML Processing (JAXP)	Java	Practitioner	10/05/2021
+018955	Sourabh Kothari	RDBMS	Database	Practitioner	10/05/2021
+018996	Madan Sen	Java-Spring 3	Java	Beginner	01/29/2019
+018996	Madan Sen	Java-Hibernate	Java	Practitioner	04/16/2020
+015637	Pradeep Patel	Self Management	Soft Skills	Practitioner	07/17/2021
+015637	Pradeep Patel	Java-Servlets & JSPs	Java	Practitioner	10/31/2022
+024528	Geethanjali B	Test Automation-API Testing	Test Automation	Practitioner	09/08/2022
+014562	Thanu S	Scripting & Programming Language-Tcl/Tk	
+Scripting & Programming Language
+Proficient	01/29/2019
+014738	Chetan Kudalkar	Database-MySQL	Database	Beginner	01/29/2019
+014738	Chetan Kudalkar	UI-Angular	UI	Practitioner	03/29/2022
+021899	Deepti Kulkarni	Containerization-Docker	Containerization	Beginner	04/21/2020
+021899	Deepti Kulkarni	Containerization-Docker	Containerization	Practitioner	07/13/2022
+010364	Yajuvendra Sankhala	Java-Spring BOOT	Java	Practitioner	05/16/2022
+023659	Chandrama Dessai	UI-Vue.js	UI	Practitioner	05/24/2021
+006718	Sonal Kakode	Database - IBM DB2	Database	Beginner	01/29/2019
+017434	Sangita Nalkar	Continuous Integration and Continuous Delivery (CI/CD)	DevOps	Practitioner	01/25/2022
+024473	Seema Kad	Java-Core Java	Java	Proficient	07/20/2020
+024473	Seema Kad	Testing Tool - JUnit	Unit Testing	Practitioner	09/14/2022
+021377	Rajkumar Tm	Scripting & Programming Language-Python	
+Scripting & Programming Language
+Beginner	01/29/2019
+021377	Rajkumar Tm	ServerSide Testing-Shell Scripting	ServerSide Testing	Beginner	01/29/2019
+011725	Radhika Kulkarni	Project Tools-Bugzilla	Project Tools	Beginner	01/29/2019
+011725	Radhika Kulkarni	Containerization-Docker	Containerization	Beginner	01/29/2019
+011725	Radhika Kulkarni	Version Control-Git	Version Control	Profi
