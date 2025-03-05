@@ -24,7 +24,7 @@ df.show()
 country_count_df.show()
 
 df.write.mode("overwrite").parquet("big_d_output/customer_data.parquet")
-country_count_df.write.mode("overwrite").parquet("output/customer_count.parquet")
+country_count_df.write.mode("overwrite").parquet("big_d_output/customer_count.parquet")
 
 
 
